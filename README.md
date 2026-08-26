@@ -1,4 +1,5 @@
-Fusion de criaturas Mitologicas
+Programa de calificacion de videojuegos
 
 ## Descripcion 
- Maquina de tipado donde se ingresan diferentes criaturas mitologicas, con sus datos tales como nombre, tipo, fuerza, mitologia. Y al combinarlas muestran que atributos fueron fusionados.
+ 
+Programa que te indica la calificacion de diferentes video juegos y comenta en si es exclente, bueno, mediocre o malo.
