@@ -1,4 +1,4 @@
-export const criaturas = [
+export const juegos = [
   {id: 1, nombre: "Zelda: Ocarina of Time", genero: "accion", desarrollador: "Nintendo", plataforma: "Nintendo 64",calificacion: 99 },
 
   {id: 1, nombre: "Portal 2",  genero: "Puzzle", desarrollador: "Valve", plataforma: "PC", calificacion: 95 },
