@@ -1,0 +1,9 @@
+{
+  "name": "oraculo-criaturas-js",
+  "version": "1.0.0",
+  "description": "Version JavaScript del Oraculo de Criaturas Emocionales (punto de partida)",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
