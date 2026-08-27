@@ -1,9 +1,9 @@
 import {
-	mostrarClasificaciones,
-	filtrarPorConsola,
-	recomendarJuego,
-	cargarRecomendacionesEnParalelo,
-} from "./sistema";
+  mostrarClasificaciones,
+  filtrarPorConsola,
+  recomendarJuego,
+  cargarRecomendacionesEnParalelo,
+} from "./sistema.js";
 
 async function main() {
 	console.log("\n=== Clasificación por calificación ===");

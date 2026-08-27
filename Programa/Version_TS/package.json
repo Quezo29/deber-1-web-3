@@ -5,5 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }

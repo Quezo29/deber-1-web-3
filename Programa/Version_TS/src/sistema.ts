@@ -1,5 +1,5 @@
-import { juegos } from "./juegos";
-import { Calificacion, Juego } from "./tipos";
+import { juegos } from "./juegos.js";
+import { Calificacion, Juego } from "./tipos.js";
 
 // Devuelve una recomendación aleatoria y la muestra en la terminal.
 export function recomendarJuego(lista: Juego[] = juegos): Juego | null {

@@ -1,4 +1,4 @@
-import { Juego } from "./tipos";
+import { Juego } from "./tipos.js";
 
 export const juegos: Juego[] = [
 	{ nombre: "Zelda: Ocarina of Time", genero: "accion", desarrollador: "Nintendo", plataforma: "Nintendo 64", calificacion: 99, año: 1998 },
